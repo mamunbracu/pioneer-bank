@@ -12,3 +12,36 @@ body{
     margin-right: auto;
     margin-left: auto;
 }
+#transaction-area{
+    display: none;
+}
+.status{
+    margin: 0 20px;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.deposit{
+    background: slateblue;
+}
+.withdraw{
+    background: lightsalmon;
+}
+.balance{
+    background: orange;
+}
+
+
+
+
+
+
+
+
+
+
+

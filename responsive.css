@@ -1,0 +1,106 @@
+@media screen and (max-width: 320px) {
+    body {
+      background-color: rgb(219, 219, 145);
+      padding: 30px;
+    }
+    h1{
+        font-size: 30px;
+    }
+    h4{
+        font-size: 20px;
+    }
+    .submit-area {
+        max-width: 100%;
+        margin-right: none;
+        margin-left: none;
+    }
+    .deposit{
+      margin-top: 10px;
+    }
+    .withdraw{
+      margin-top: 10px;
+    }
+    .balance{
+      margin-top: 10px;
+    }
+  }
+@media screen and (max-width: 375px) {
+    body {
+      background-color: rgb(219, 219, 145);
+      padding: 30px;
+    }
+    h1{
+        font-size: 30px;
+    }
+    h4{
+        font-size: 20px;
+    }
+    .submit-area {
+        max-width: 100%;
+        margin-right: none;
+        margin-left: none;
+    }
+    .deposit{
+      margin-top: 10px;
+    }
+    .withdraw{
+      margin-top: 10px;
+    }
+    .balance{
+      margin-top: 10px;
+    }
+  }
+  @media screen and (max-width: 400px) {
+    body {
+      background-color: rgb(219, 219, 145);
+      padding: 30px;
+    }
+    h1{
+        font-size: 30px;
+    }
+    h4{
+        font-size: 20px;
+    }
+    .submit-area {
+        max-width: 100%;
+        margin-right: none;
+        margin-left: none;
+    }
+    .deposit{
+      margin-top: 10px;
+    }
+    .withdraw{
+      margin-top: 10px;
+    }
+    .balance{
+      margin-top: 10px;
+    }
+  }
+
+  @media screen and (max-width: 420px) {
+    body {
+      background-color: rgb(219, 219, 145);
+      padding: 30px;
+    }
+    h1{
+        font-size: 30px;
+    }
+    h4{
+        font-size: 20px;
+    }
+    .submit-area {
+        max-width: 100%;
+        margin-right: none;
+        margin-left: none;
+        margin-top: 15px;
+    }
+    .deposit{
+      margin-top: 10px;
+    }
+    .withdraw{
+      margin-top: 10px;
+    }
+    .balance{
+      margin-top: 10px;
+    }
+  }
